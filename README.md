@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=39FF14&width=435&lines=I'm+John+Brittain;Welcome+to+my+terminal.">
+</h1>
 
-<!--
-**JohnBrittaein/JohnBrittaein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://johnbrittaein.github.io/resume-website/#about-me">
+    <img src="https://img.shields.io/badge/Website-0AFFEF?style=for-the-badge&logo=retroarch&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/john-brittain-isueng/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Projects
+
+🎛️ Rxn Rover : Plugin-based LabVIEW chemistry control system
+📱 Lexure : Android + Spring Boot app for collaborative study
+🧮 MIPS Pipeline : Hardware pipelining and hazard detection in VHDL
+🎼 AlgoComposer: A generative music engine using modes & motifs
+🤖 R.A.D.C. : Remote Autonomous Disaster Cleanup bot
+(Think: Roomba + robotic arm for sci-fi tasks)
+
+
+---
+
+🧰 Tech Stack
+
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="Powershell" alt="Powershell" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>
+</div>
+
+---
+
+🔥 My Stats
+
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=JohnBrittaein&theme=dark&background=000000" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnBrittaein&layout=compact&theme=vision-friendly-dark" />
+</p>
+
+---
+
