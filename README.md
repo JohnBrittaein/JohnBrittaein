@@ -15,17 +15,18 @@
 
 🛠️ Projects
 
-🎛️ Rxn Rover : Plugin-based LabVIEW chemistry control system
-📱 Lexure : Android + Spring Boot app for collaborative study
-🧮 MIPS Pipeline : Hardware pipelining and hazard detection in VHDL
-🎼 AlgoComposer: A generative music engine using modes & motifs
-🤖 R.A.D.C. : Remote Autonomous Disaster Cleanup bot
-(Think: Roomba + robotic arm for sci-fi tasks)
+    🎛️ Rxn Rover: Plugin-based LabVIEW chemistry control system
+
+    📱 Lexure: Android + Spring Boot app for collaborative study
+
+    🧮 MIPS Pipeline: Hardware pipelining and hazard detection in VHDL
+
+    🎼 AlgoComposer: A generative music engine using modes & motifs
+
+    🤖 R.A.D.C.: Remote Autonomous Disaster Cleanup Bot (Roomba with robotic arm)
 
 
 ---
-
-🧰 Tech Stack
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -44,15 +45,4 @@
 
 ---
 
-🔥 My Stats
-
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=JohnBrittaein&theme=dark&background=000000" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnBrittaein&layout=compact&theme=vision-friendly-dark" />
-</p>
-
----
 
